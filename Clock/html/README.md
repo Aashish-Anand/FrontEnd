@@ -6,4 +6,4 @@ And some addon By Me: index1.html
 
 <h2>ScreenShot Attached</h2>
 
-![Image](https://raw.githubusercontent.com/Aashish-Anand/corona-tracker/master/screeenshot.png)
+![Image](https://github.com/Aashish-Anand/FrontEnd/blob/master/Clock/html/clock.JPG)
